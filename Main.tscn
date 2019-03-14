@@ -1,4 +1,6 @@
-[gd_scene format=2]
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://icon.png" type="Texture" id=1]
 
 [node name="Main" type="Node2D"]
 
@@ -15,4 +17,8 @@ margin_top = 117.0
 margin_right = 594.0
 margin_bottom = 156.0
 text = "YES"
+
+[node name="Sprite" type="Sprite" parent="."]
+position = Vector2( 368.671, 143.182 )
+texture = ExtResource( 1 )
 
