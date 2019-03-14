@@ -10,9 +10,9 @@ margin_bottom = 168.0
 text = "Okay"
 
 [node name="Label" type="Label" parent="."]
-margin_left = 521.0
-margin_top = 114.0
-margin_right = 599.0
-margin_bottom = 153.0
+margin_left = 516.335
+margin_top = 117.499
+margin_right = 594.335
+margin_bottom = 156.499
 text = "YES"
 
