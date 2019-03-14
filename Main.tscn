@@ -3,9 +3,9 @@
 [node name="Main" type="Node2D"]
 
 [node name="Button" type="Button" parent="."]
-margin_left = 99.0
+margin_left = 98.0
 margin_top = 86.0
-margin_right = 233.0
+margin_right = 232.0
 margin_bottom = 168.0
 text = "Okay"
 
@@ -14,6 +14,5 @@ margin_left = 521.0
 margin_top = 114.0
 margin_right = 599.0
 margin_bottom = 153.0
-text = "Yes!
-"
+text = "YES"
 
