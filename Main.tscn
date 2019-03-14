@@ -3,16 +3,16 @@
 [node name="Main" type="Node2D"]
 
 [node name="Button" type="Button" parent="."]
-margin_left = 96.4927
+margin_left = 95.0
 margin_top = 86.0
-margin_right = 230.493
-margin_bottom = 168.0
+margin_right = 230.0
+margin_bottom = 370.0
 text = "Okay"
 
 [node name="Label" type="Label" parent="."]
-margin_left = 516.335
-margin_top = 117.499
-margin_right = 594.335
-margin_bottom = 156.499
+margin_left = 516.0
+margin_top = 117.0
+margin_right = 594.0
+margin_bottom = 156.0
 text = "YES"
 
