@@ -1,4 +1,4 @@
-# Hello-Godot
+﻿# Hello-Godot
 
-Проверка, как работает Git с Godot Engine
+Проверяю, как работает Git с Godot Engine
 Вношу изменения и проверяю, как это выглядит.
