@@ -2,3 +2,18 @@
 
 [node name="Main" type="Node2D"]
 
+[node name="Button" type="Button" parent="."]
+margin_left = 250.0
+margin_top = 154.0
+margin_right = 384.0
+margin_bottom = 236.0
+text = "Okay"
+
+[node name="Label" type="Label" parent="."]
+margin_left = 521.0
+margin_top = 114.0
+margin_right = 599.0
+margin_bottom = 153.0
+text = "Yes!
+"
+
